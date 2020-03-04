@@ -1,0 +1,270 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Mr+Dafoe|Roboto|Rubik+Mono+One&display=swap');
+htm, body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+  background-image: url(../img/cleo-topper.jpg);
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+ 
+    
+}
+
+h2{
+position: relative;
+bottom: 4em;
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 1.5em;
+    
+    color: #e7bc0e;
+    margin-left: 18vw;
+    margin-top: 04em;
+
+}
+
+.text2 {
+    background-color: rgb(72, 72, 72);
+    color: whitesmoke;
+}
+header{
+    width: 100vw;
+
+}
+.border {
+border-bottom: 1px solid #e7bc0e;
+height: 7vh;
+margin-left:80vw ;
+margin-right: 9.5vw;
+
+}
+
+
+nav {
+  
+background-image: url(../img/heart\ \(1\).svg);
+background-repeat: no-repeat;
+background-size: 1em;
+background-position-x: 0ch;
+
+font-size: 2em;
+height: 5vh;
+
+width: 20vw;
+padding: 0.5em 0em 0em 2em;
+
+   float: right;
+   color: whitesmoke;
+ 
+  
+}
+
+main section div:nth-child(1) p{
+ 
+    font-family: 'Rubik Mono One', sans-serif;
+    color: whitesmoke;
+    font-size: 3em;
+    margin: 2vh 2vh 0vh 2vh;
+   padding: 1.7em;
+    padding-bottom: 1.6em;
+    width: 8em;
+   
+}
+
+main section div:nth-child(2) p{
+    position: relative;
+    bottom: 8em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 2em;
+    color: #6bc1a3;
+    padding: 8em 4em;
+    line-height: 2em;
+    height: 2vh;
+    width: 60vw;
+    margin-left: 10vw;
+
+}
+.text3 {
+    margin-left: 10vw;
+    font-size: 2.5em;
+    color:#ffcc00;
+    font-variant-caps: all-small-caps;
+  
+    
+}
+.text33 {
+    
+ background-color: rgb(57, 56, 56);
+    color: whitesmoke;
+    font-variant-caps: all-small-caps;
+}
+
+ main section div:nth-child(3) p{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../img/stat-workers-color\ \(1\).svg);
+    background-size: 3em;
+    background-repeat: no-repeat;
+    background-position-x: 10ch;
+    width: 50vw;
+    padding: 2.5em;
+
+    font-variant-caps: all-small-caps;
+    color: #e7bc0e;
+    font-size: 2.8em;
+    font-weight: bold;
+    margin-left: 18vw;
+    margin-top: 6em;
+    
+
+   
+
+    
+    
+}
+
+   .text4 {
+    font-family: 'Roboto', sans-serif;
+   background-color: rgb(57, 57, 57);
+       color: white;
+       font-variant: small-caps;
+     
+   }
+   .text44
+{ 
+    color: #cb91b6;
+    font-size: 3em;
+    font-weight: bold;
+   
+    
+}
+  
+
+main section div:nth-child(4) p{
+    display: inline-block;
+    background-image: url(../img/stat-pay-color\ \(1\).svg);
+    background-size: 4em;
+    background-repeat: no-repeat;
+    background-position-x: 10ch;
+  
+
+    padding: 6em;
+    font-variant: small-caps;
+    width: 30vw;
+   
+    color: #cb91b6;
+    font-size: 2em;
+
+  margin-left: 24vw;
+  margin-bottom: 2em;
+  margin-top: 2em;
+    
+  
+    
+}
+.text5{
+    color: #6bc1a3;
+    font-size: 4em;
+    font-weight: bold;
+}
+.text55{
+    color: white;
+    background-color: rgb(46, 46, 46);
+}
+
+main section div:nth-child(5) p{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    background-image: url(../img/stat-health-color\ \(1\).svg);
+    background-size: 3.5em;
+    background-repeat: no-repeat;
+    background-position-x: 10ch;
+
+    color:#6bc1a3;
+    padding: 4em;
+    font-size: 2.5em;
+    font-variant: small-caps;
+    width: 28vw;
+    margin-left: 22vw;
+    margin-bottom: 2em;
+    margin-top: 1em;
+      
+}
+.text6{
+    background-color: rgb(52, 51, 51);
+    color: white;
+}
+main section div:nth-child(6) p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #2fa2f4 ;
+    font-size: 2em;
+    width: 64vw;
+    text-align: left;
+    margin-left: 30vw;
+
+}
+article{
+    position: relative;
+    top: 17em;
+    left: 0vw;
+    width: 100vw;
+    height: 120vh;
+  background-image: url(../img/kid.png);
+  background-position: center;
+  background-size: cover;
+}
+.see{
+   
+  
+    height: 154vh;
+    width: 100vw;
+   
+    background-image: url(../img/see.png);
+    background-position: center;
+    
+}
+footer{
+    
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+.end {
+    position: absolute;
+ 
+    width: 45vw;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    text-align: left;
+    margin-left: 10vw;
+    margin-top: 3em;
+   
+}
+.button1{
+      text-align: center;
+     position: absolute;
+    font-size: 2em;
+    background-color: ;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+
+    margin-top: 80vh;
+    margin-left: 12vw;
+
+    padding: .4em;
+    width: 8vw;
+    
+}
+.button1:hover{
+    box-shadow: 2px 2px 0px 2px whitesmoke;
+}
